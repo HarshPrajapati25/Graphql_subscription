@@ -1,0 +1,28 @@
+{
+  "name": "graphqp_server_using_mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/sandbox": "^2.5.1",
+    "@apollo/server": "^4.10.0",
+    "@graphql-tools/schema": "^10.0.2",
+    "apollo-server": "^3.13.0",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.1",
+    "graphql": "^16.8.1",
+    "graphql-subscriptions": "^2.0.0",
+    "graphql-ws": "^5.14.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3",
+    "subscriptions-transport-ws": "^0.11.0",
+    "ws": "^8.16.0"
+  }
+}

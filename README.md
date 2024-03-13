@@ -1,1 +1,1 @@
-# Graphql_subscription
+# Graphql_subscribtion
